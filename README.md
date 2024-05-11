@@ -1,0 +1,3 @@
+# loglog
+
+simple logger wrap
